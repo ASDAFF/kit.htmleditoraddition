@@ -1,0 +1,13 @@
+{
+  "name": "kit.htmleditoraddition",
+  "version": "1.0.12",
+  "main": "",
+  "ignore": [
+    "source",
+    ".gitignore",
+    ".idea",
+    "bower.json",
+    "gulpfile.js",
+    "package.json"
+  ]
+}
